@@ -12,13 +12,18 @@
 - Android Engineer - SleepStar - <a href="https://play.google.com/store/apps/details?id=com.sleepstar.healingapp">v1.0.0</a> 
 
 ## Study
-- Android TensorFlow - Hangul 
+- Android Coroutine - <a href="https://github.com/YuSkyBlue?tab=repositories">Basic-Coroutine<a/>
+- Android TensorFlow - Hangul
+- Android kotlin - <a href="https://github.com/YuSkyBlue/basic-kotlin">basic-kotlin<a/>
+- Android NDK - <a href="https://github.com/YuSkyBlue/Basic-Android-NDK-Kotlin">basic NDK<a/>
+- Android Collect Sample - <a href="https://github.com/YuSkyBlue/android-blog-step">blog-step</a>
+- Computer-Vsion-OpenCV - <a href="https://github.com/YuSkyBlue/Computer-Vision-OpenCV">Open CV<a/>
+
 ## Skill
 - Android , Kotlin , Java 
 ## Work Experience
 - Android Engineer - Pluspark (Parking Control System) Company : Dec 2023 ~ Current
 - Android SDK Engineer  - Xperix (Biometrics Fingerprint) Company  : Oct 2022 ~ Nov 2023
-
 
 ## Presentation
 - KMM ColorPicker - Community Study -  <a href="https://speakerdeck.com/yuskyblue/kmm-colorpicker-app">Document</a>  
