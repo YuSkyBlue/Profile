@@ -22,7 +22,8 @@
 ## Skill
 - Android , Kotlin , Java 
 ## Work Experience
-- Android Engineer - Pluspark (Parking Control System) Company : Dec 2023 ~ Current
+- Software Engineer - Gernal Motors Company : May 2024  ~ Current
+- Android Engineer - Pluspark (Parking Control System) Company : Dec 2023 ~ May 2024
 - Android SDK Engineer  - Xperix (Biometrics Fingerprint) Company  : Oct 2022 ~ Nov 2023
 
 ## Presentation
