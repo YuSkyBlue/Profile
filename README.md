@@ -22,7 +22,7 @@
 ## Skill
 - Android , Kotlin , Java 
 ## Work Experience
-- SDV Software Engineer - General Motors(automobile industry) Company : May 2024  ~ Current
+- SDV Software Engineer - General Motors(Automobile Industry) Company : May 2024  ~ Current
 - Android Engineer - Pluspark (Parking Control System) Company : Dec 2023 ~ May 2024
 - Android SDK Engineer  - Xperix (Biometrics Fingerprint) Company  : Oct 2022 ~ Nov 2023
 
