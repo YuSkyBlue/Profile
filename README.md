@@ -12,6 +12,7 @@
 - Android Engineer - SleepStar - <a href="https://play.google.com/store/apps/details?id=com.sleepstar.healingapp">v1.0.0</a> 
 
 ## Study
+- AOSP LatinIME - <a href="https://android.googlesource.com/platform/packages/inputmethods/LatinIME/">LatinIME Keyboard<a/>
 - Android Coroutine - <a href="https://github.com/YuSkyBlue?tab=repositories">Basic-Coroutine<a/>
 - Android TensorFlow - Hangul
 - Android kotlin - <a href="https://github.com/YuSkyBlue/basic-kotlin">basic-kotlin<a/>
